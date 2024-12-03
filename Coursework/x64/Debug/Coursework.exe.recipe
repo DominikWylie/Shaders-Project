@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\x64\Debug\Coursework.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\basic_depth_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\basic_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\depth_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\heightMap_Depth_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\heightMap_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\motionBlur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\motionBlur_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\wave_depth_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\SDI\Documents\shaders\cmp301_coursework-DominikWylie\Coursework\Coursework\wave_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
